@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CustomChoiceList</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+                This sample demonstrates how to create custom checkable layouts, for use with ListView\'s choiceMode
+                attribute.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Widget.DescriptionBar">
+        <item name="android:background">#fb3</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:paddingLeft">@dimen/page_margin</item>
+        <item name="android:paddingRight">@dimen/page_margin</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/CustomChoiceList/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentExam01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LandscapeMode">Landscape Fragment</string>
+    <string name="portraitFragment">portraitMode</string>
+    <string name="portraitMod">portraitMod</string>
+    <string name="PortraitMod">FragmentPortrait</string>
+</resources>

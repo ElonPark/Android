@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\CookAndroid\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\203a21\AndroidStudioProjects\ProviderTest2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c941244e92e1c474ab3b04421c84e6f1088a7992.jar" />
+    </item>
+
+</items>

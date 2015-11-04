@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TCP IP 채팅</string>
+    <string name="send">전송</string>
+    <string name="def"></string>
+
+</resources>

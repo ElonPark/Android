@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentListTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen1">screen1</string>
+    <string name="fromName">fromName</string>
+    <string name="put_your_name">put_your_name</string>
+</resources>

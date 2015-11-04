@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/203a21/AndroidStudioProjects/Morp%20Android2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">TCP IP 채팅</string>
+    <string name="def"/>
+    <string name="send">전송</string>
+</resources>
